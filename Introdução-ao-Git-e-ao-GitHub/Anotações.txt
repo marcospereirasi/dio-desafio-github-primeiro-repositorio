@@ -1,4 +1,5 @@
 https://git-scm.com/downloads
 Em ambientes do Microsoft Windows, o aplicativo usado é o Git Bash.
-Em ambientes Linux e MacOs, geralmente é usado através de terminais integrados de linhas de comando Unix.
+Em ambientes Unix, as linhas de comando dos terminais integrados é que geralmente são usadas. Como nos
+Ambientes Linus e MacOs.
 
